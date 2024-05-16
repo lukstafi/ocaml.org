@@ -29,6 +29,7 @@ let term_templates =
     ("video", Ood_gen.Video.template);
     ("watch", Ood_gen.Watch.template);
     ("workshops", Ood_gen.Workshop.template);
+    ("youtube", Ood_gen.Youtube.template);
   ]
 
 let cmds =
